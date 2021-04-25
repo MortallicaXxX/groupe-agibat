@@ -1,0 +1,335 @@
+
+- desc
+	GROUPE AGIBAT
+		::Vous accompagne dans votre projet de rénovation et d'amélioration.
+		::Entreprise locale à taille humaine, implantée entre Castres et Revel.
+		::Expert en rénovation énergétique et en rénovation de l'habitat.
+		::Intervenant sur l'ensemble du territoire d'Occitanie
+
+titre
+	- Perfomrance energentique
+		-desc
+			::La quantité d'énergie consommée par votre habitat.
+			::Améliorez la performance énergétique de votre logement, réduisez vos factures liées au chauffage/refroidissement et obtenez un confort thermique optimal.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Isolation de combles perdus 30%
+			Priorité quand on parle des déperditions thermique d'une maison, l'isolation des combles représente le pourcentage le plus important, c'est la garantie de réaliser des économies d'énergie
+
+			Une bonne isolation vous garantit :
+			-Réduit au maximum les déperditions thermique
+			-Réaliser des économie d'énergie
+			-Réduire vos factures énergétique
+			-Réduit les nuisances sonore extérieur
+			-Écologique, respecte l’environnement
+			-Confort augmenté été comme hiver
+			-Rentable en seulement quelques années
+			-Plus value de votre habitat
+			-Isolation solidaire pour 1€*
+
+			*Selon caractéristique technique et composition du foyer
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Isolation de comble rampant 30%
+			Prévus pour les combles aménageable ou aménager, elle est au même titre que l'isolation de combles perdus la priorité en terme de déperdition thermique et d'économie d'énergie
+
+			 Une bonne isolation vous garantit :
+			-Réduit au maximum les déperditions thermique
+			-Réaliser des économie d'énergie
+			-Réduire vos factures énergétique
+			-Réduit les nuisances sonore extérieur
+			-Écologique, respecte l’environnement
+			-Confort augmenté été comme hiver
+			-Rentable en seulement quelques années
+			-Plus value de votre habitat
+			-Aides financières et subventions
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Isolation thermique intérieur 25%
+
+			Second poste de déperdition, l'isolation thermique de vos murs intérieurs, vous garantit de réaliser des économies d'énergie et financière importantes. La finition en plaque de plâtre vous permet de réaliser la finition de votre choix
+
+			 Une ITI efficace vous garantit :
+			-Réduit les déperditions thermique
+			-Réaliser des économie d'énergie
+			-Réduire vos factures énergétique
+			-Réduit les nuisances sonore extérieur
+			-Écologique, respecte l’environnement
+			-Confort augmenté été comme hiver
+			-Rentable en seulement quelques années
+			-Plus value de votre habitat
+			-Aides financières et subventions
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Isolation thermique extérieur 25%
+
+			L'isolation thermique de vos mur par l'extérieur adapté vous garantie un double avantage, celui de réaliser des économie important et de remettre à neuf votre façade
+
+			 Une ITE efficace vous garantit :
+			-Réduit les déperditions thermique
+			-Réaliser des économie d'énergie
+			-Réduire vos factures énergétique
+			-Réduit les nuisances sonore extérieur
+			-Écologique, respecte l’environnement
+			-Confort augmenté été comme hiver
+			-Rentable en seulement quelques années
+			-Rénovation de votre façade
+			-Plus value de votre habitat
+			-Aides financières et subventions
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Isolation de plancher bas 10%
+
+			Le plancher bas est la paroi séparant l’espace de vie de votre habitat et le sol extérieur. Une bonne isolation des sols et des sous-sols (planchers bas) vous garantit une protection anti-humidité et une sensation de confort lorsque vous marchez pieds nus.
+
+			 Une Isolation efficace de vos sol vous garantit :
+			-Réduit les déperditions thermique
+			-Réaliser des économie d'énergie
+			-Réduire vos factures énergétique
+			-Écologique, respecte l’environnement
+			-Confort augmenté été comme hiver
+			-Rentable en seulement quelques années
+			-Protection contre l'humidité
+			-Plus value de votre habitat
+			-Aides financières et subventions
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Isolation thermique des menuiseries 15%
+
+			L'isolation thermique de vos portes et fenêtres est indispensable pour réduire les déperditions et vos factures, une bonne menuiserie avec un double vitrage performant vous permet d'améliorer votre confort thermique et acoustique
+
+			 Une menuiserie performante vous garantit :
+			-Réduit les déperditions thermique
+			-Réaliser des économie d'énergie
+			-Réduire vos factures énergétique
+			-Écologique, respecte l’environnement
+			-Confort augmenté été comme hiver
+			-Rentable en seulement quelques années
+			-Plus value de votre habitat
+			-Aides financières et subventions
+
+======================================================================
+
+	- Energies renouvlables :
+		-desc
+			::Une énergie naturelle et économique.
+			::Passez aux énergies renouvelables, profitez d'une source d'énergie gratuite, renouveler par la nature afin d'agir en faveur de la planète... Et de vos économie.
+		- Pompe à chaleur AIR/EAU
+				::Elle assure le chauffage et/ou la production d'eau chaude sanitaire dans votre habitat.
+				::Simplement, en captant les calories naturellement présente dans l'air extérieur et en les injectant dans le circuit de chauffage central et/ou d'eau chaude de votre maison.
+
+				::Une PAC AIR/EAU adaptée à votre logement vous garantie :
+					::-Réaliser des économie d'énergie
+					::-Réduire de vos factures énergétique
+					::-Écologique, respecte l’environnement
+					::-Raccordement sur le circuit de chauffage existant
+					::-Rentable en seulement quelques années
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+		- Climatiseur réversible
+			::Egalement appelé pompe à chaleur AIR/AIR, elle assure le chauffage et/ou le refroidissement dans votre habitat.
+			::Simplement, en captant les calories naturellement présente dans l'air extérieur pour chauffer l'intérieur de votre maison en hiver et  refroidir en été.
+
+			::Une PAC AIR/EAU adaptée à votre logement vous garantie :
+				::-Réaliser des économie d'énergie
+				::-Réduire de vos factures énergétique
+				::-Écologique, respecte l’environnement
+				::-Réversible, chauffage et climatisation
+				::-Rentable en seulement quelques années
+
+	-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+		- Chauffe eau thermo dynamique
+			::Fonctionnant de façon identique à une PAC AIR/EAU, il assure la production d'eau chaude sanitaire dans votre habitat.
+			::Simplement, en captant les calories naturellement présente dans l'air extérieur et en les injectant dans le circuit d'eau chaude de votre maison
+
+			::Un CET adapté à vos besoins vous garantie :
+				::-Réaliser des économie d'énergie
+				::-Réduire de vos factures d'eau chaude
+				::-Écologique, respecte l’environnement
+				::-Raccordement sur le circuit de d'ECS existant
+				::-Rentable en seulement quelques années
+
+		-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+		- Solaire photovoltaïque
+			::Les panneaux assurent la production d'électricité lorsqu'il sont éclairés par le soleil. Grâce à des matériaux dits "semi-conducteurs", les cellules transforment l’énergie solaire en un courant continu. Celui-ci est transformé en courant alternatif par des micro -onduleur pour la revente au réseau ou une autoconsommation.
+
+			::Une centrale photovoltaïque adaptée a vos besoins vous garantie :
+				::-Réduire vos facture énergétique
+				::-Possibilité d'autoconsommé et de revendre le surplus
+				::-Écologique, respecte l’environnement
+				::-Indépendant énergétiquement
+				::-Rentable en quelque année
+
+		-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+			CHAUFFE EAU SOLAIRE
+
+			Grâce à l'énergie solaire, le CESI vous assure la production d'eau chaude sanitaire de votre maison.
+			Les panneaux solaire thermique récupèrent les calorie produite par la chaleur du soleil et les réinjectes dans le chauffe eau, cet échange thermique vous assure un production d'ECS éco-responsable.
+
+			Un CESI adaptée a votre logement vous garantie :
+			-Réaliser des économie d'énergie
+			-Réduire vos factures énergétique
+			-Écologique, respecte l’environnement
+			-Raccordement sur le circuit de d'ECS existant
+			-Rentable en seulement quelques années
+
+
+	-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+			POÊLES BOIS/GRANULÉS
+
+			 Appelé également poêles à pellets ou poêle à bûches, les poêles, sont des appareils de chauffage d'appoint, il sont indépendant du chauffage central.
+			 C'est par la combustion des granulé de bois ou des buche de bois que les poêles vont diffuser directement la chaleur dans votre intérieur.
+
+			Un poêle adaptée a votre logement vous garantie :
+			-Réaliser des économie d'énergie
+			-Réduire vos factures énergétique
+			-Écologique, respecte l’environnement
+			-Indépendant du chauffage central
+			-Rentable en seulement quelques années
+
+			===========================================
+
+	- Rénovation & Entretien :
+		-desc
+			::Un pas vers la tranquillité et la sérénité.
+			::Protégez votre habitat et faites des économies, grâce à des solutions durables.  Agissez pour valoriser votre maison.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Réfection de toiture
+
+			Une toiture en bonne santé est l'assurance d'une maison saine. Si les tuiles qui composent votre toiture sont trop dégradées et que les infiltrations sont nombreuses, un traitement ne sera plus suffisant. Dans ce cas, des travaux de réfection de toiture s’imposent. Le remplacement de la couverture est une étape incontournable pour assurer l’étanchéité de votre habitat. Il est préférable d'agir avant que les infiltrations successives aient endommagé la charpente, l'isolation et l'intégrité de votre habitation.
+
+			Une réfection de toiture efficace vous assure :
+			-Plus value de votre habitat
+			-Sérénité et meilleur confort
+			-Pérennité de votre maison
+			-Protection de votre intérieur
+			-Protection contre l'humidité
+			-Réaliser des économies
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Traitement de toiture
+
+			Le toit est l'élément  qui protège votre foyer des éléments extérieurs, il est donc fortement exposé à des agressions. C'est l'une des raisons pour laquelle il est indispensable d'entretenir votre toiture de façon régulière.
+			Un traitement adapté de votre toit est particulièrement important.
+			Si elle n'est pas entretenue et que cela entraîne l’infiltration d’eaux pluviales sous votre toiture, des dépenses considérables seront à prévoir pour effectuer une réfection de toiture.
+
+			Un bon traitement de toiture vous garantit :
+			-Effet auto-nettoyant
+			-Aspect du neuf
+			-Prolonger sa durée de vie
+			-Plus value de votre habitat
+			-Sérénité et meilleur confort
+			-Pérennité de votre maison
+			-Protection de votre intérieur
+			-Protection contre l'humidité
+			-Réaliser des économies
+			-Étanchéité total
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Zinguerie
+
+			L'étanchéité de votre toiture est assurée par diverses pièces, les parties en zinc en font partie. Elles assurent l'évacuation totale de l'eau de pluie, lorsque les pièces d'étanchéité sont vieillissantes, il est primordial de les remplacer avant d'endommager les bois de charpentes et l'intégrité de votre maison.
+
+			Des pièces de zinc adapter vous garantit :
+			-Une étanchéité parfaite
+			-Aspect du neuf
+			-Plus value de votre habitat
+			-Sérénité et meilleur confort
+			-Pérennité de votre maison
+			-Protection de votre intérieur
+			-Protection contre les infiltration
+			-Réaliser des économies
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Traitement de bois
+			La charpente est un élément qui demande un entretien et une attention particulière. Elle joue le rôle de support de toute la couverture de votre maison,il est important de savoir que toutes les composantes en bois d’un logement peuvent être sujet aux dangers tels que les champignons ou les insectes xylophages. La charpente en bois ne déroge pas à cette règle, il est donc nécessaire de se prémunir de cette situation en traitant votre charpente.
+
+			Un traitement de charpente adapté vous garantit
+			-Prolonger sa durée de vie
+			-Plus value de votre habitat
+			-Sérénité et meilleur confort
+			-Pérennité de votre maison
+			Protection contre les insectes xylophages
+			-Protections contre les champignons
+			-Réaliser des économies
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Traitement de façade
+
+			Avec le toit, les murs sont les éléments  qui protègent votre foyer des éléments extérieurs, ils sont donc fortement exposés à des agressions. C'est l'une des raisons pour laquelle il est indispensable d'entretenir vos façades de façon régulière.
+			Un traitement adapté de vos murs est particulièrement important.
+			Si elle n'est pas entretenue et que cela entraîne la détérioration et voir l’infiltration d’eaux pluviales dans votre foyer, des dépenses considérables seront à prévoir pour effectuer un ravalement de façade.
+
+			Un bon traitement de façade vous garantit :
+			-Effet auto-nettoyant
+			-Aspect du neuf
+			-Prolonger sa durée de vie
+			-Plus value de votre habitat
+			-Sérénité et meilleur confort
+			-Pérennité de votre maison
+			-Protection de votre intérieur
+			-Protection contre l'humidité
+			-Réaliser des économies
+			-Étanchéité total
+
+	-----------------------------------------------------------------------------------------------------------------------------------------------------------
+			Enduit façade
+
+			Une façade en bonne santé est l'assurance d'une maison saine. Si les murs de votre maison sont trop dégradés et que les fissures sont nombreuses, un traitement ne sera plus suffisant. Dans ce cas, des travaux de ravalement de façade s’imposent. Le ravalement de la façade est une étape incontournable pour assurer l’étanchéité de votre habitat. Il est préférable d'agir avant que les infiltrations successives aient endommagé votre habitation.
+			Un enduit de façade assure d'embellir sa maison avec la couleur et la finition de son choix.
+
+			Une réfection de toiture efficace vous assure :
+			-Plus value de votre habitat
+			-Finition de votre choix
+			-Sérénité et meilleur confort
+			-Pérennité de votre maison
+			-Protection de votre intérieur
+			-Protection contre l'humidité
+
+	- Aides :
+		- CEE
+			::
+		- MaPrimeRenov
+			::
+		- Eco chèques
+			::
+		- Action logement
+			::
+		- Crédit d'impot
+			::
+		- TVA à taux réduit(5.5%)
+			::
+
+groupe.agibat@gmail.com
+
+engagement?
+	-interlocuteur unique pour vos traveaux
+	-controle qualité de nos chantiers
+diagnostiques gratuits?
+	-diagnostiques energetiques
+	-diagnostiques de l'habitat
+
+index
+photo diapo
+::style
+::fonctions
+	-flèches droite/gauche
+	-rond en scroll
+:desc
+	-isoler
+	-chauffer/rafraichir
+	-rénover/entretenir
+	-produire mon éléctricité
+	-découvir les aides/subentions
+services
+
+
+Nos diagnostique
+	- Votre diagnostique => Economie d'enoergie
+	- Votre diagnostique => Energie renouvelable
+	- Votre diagnostique => Rénovation et entretient
+	- Votre diagnostique => Global
+
+	Etapes1 :: Diagnostic souhaiter ( 4 du dessus )
+	Etapes2 :: Maison ou appartement
+	Etapes3 :: Quels travaux avez-vous réalisés depuis 2000 ?
+	Etapes4 :: Quelle énergie de chauffage utilisez-vous ?
+	Etapes5 :: Comment votre eau chaude sanitaire est-elle produite ?
+	Etapes6 :: Revenus
+	Etapes7 :: Sélectionnez vos travaux ( les 4 du dessus ).

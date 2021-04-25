@@ -1,0 +1,474 @@
+#container[name="energies_renouvelables"] div[name="header"] {
+display: grid;
+grid-template-columns: 1fr 1fr;
+margin-top: 1vw;
+}
+
+#container[name="energies_renouvelables"] div[name="header"] div[name="left"] {
+    display: grid;
+    grid-auto-rows: min-content;
+    padding-left: 1vw;
+}
+
+#container[name="energies_renouvelables"] div[name="header"] div[name="left"] div {
+    /* font-size: 5vw;
+    margin-top: 11vw;
+    margin-bottom: 1vw; */
+}
+
+#container[name="energies_renouvelables"] div[name="header"] div[name="left"] div h1 {
+    font-size: 5vw;
+    margin-top: 11vw;
+    margin-bottom: 0vw;
+}
+
+#container[name="energies_renouvelables"] div[name="header"] div[name="left"] div h1:last-child {
+    margin-top: 0;
+    transform: translateY(-25%);
+}
+
+#container[name="energies_renouvelables"] div[name="header"] div[name="left"] h1 br{
+  margin : 1vw;
+}
+
+#container[name="energies_renouvelables"] div[name="header"] div[name="left"] p[name="titre"] {
+    font-size: 2.5vw;
+    margin-top: 0;
+    margin-bottom: 1vw;
+}
+
+#container[name="energies_renouvelables"] div[name="header"] div[name="left"] p {
+    font-size: 1.5vw;
+}
+
+#container[name="energies_renouvelables"] div[name="header"] div[name="right"]{
+  background-image: url(../images/performance_energetique-min.jpeg);
+  background-position: center;
+  background-size: cover;
+  border-radius: inherit;
+  background-repeat: no-repeat;
+}
+
+  /* services_liste */
+
+  #container[name="energies_renouvelables"] div[name="services_liste"] {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+      grid-template-rows: 10% 1fr 20% 1fr 10%;
+  }
+
+/* #container[name="energies_renouvelables"] div[name="services"] h1 {
+  grid-row: 2;
+  grid-column: 1/10;
+} */
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service {
+  background-color: white;
+  filter: drop-shadow(2px 4px 6px black);
+  display: grid;
+  grid-template-rows: 1fr min-content;
+  text-align: center;
+  border-radius: 0.5vw;
+  user-select: none;
+  cursor: pointer;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service:hover {
+  filter: drop-shadow(2px 4px 10px var(--main-bckg-color-lightblue));
+}
+
+/* #container[name="energies_renouvelables"] div[name="services_liste"] div.service div[name="img"] {
+  background-color: red;
+  border-radius: inherit;
+} */
+
+/* #container[name="energies_renouvelables"] div[name="services_liste"] div.service div[name="img"] {
+    background-image: url(../images/icons/airConditioner.png);
+    background-position: center;
+    background-size: contain;
+    border-radius: inherit;
+    background-repeat: no-repeat;
+    height: 60%;
+    margin: auto;
+} */
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="pompe_chaleur"] div[name="img"] {
+    background-image: url(../images/icons/pompe_chaleur.png);
+    background-position: center;
+    background-size: contain;
+    border-radius: inherit;
+    background-repeat: no-repeat;
+    height: 60%;
+    width: 90%;
+    margin: auto;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="climatiseur"] div[name="img"] {
+    background-image: url(../images/icons/climatiseur.png);
+    background-position: center;
+    background-size: contain;
+    border-radius: inherit;
+    background-repeat: no-repeat;
+    height: 60%;
+    width: 90%;
+    margin: auto;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="chauffe_eau_thermo"] div[name="img"] {
+    background-image: url(../images/icons/chauffe_eau_thermo.png);
+    background-position: center;
+    background-size: contain;
+    border-radius: inherit;
+    background-repeat: no-repeat;
+    height: 60%;
+    width: 90%;
+    margin: auto;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="photovoltaique"] div[name="img"] {
+    background-image: url(../images/icons/photovoltaique.png);
+    background-position: center;
+    background-size: contain;
+    border-radius: inherit;
+    background-repeat: no-repeat;
+    height: 60%;
+    width: 90%;
+    margin: auto;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="chauffe_eau_solaire"] div[name="img"] {
+    background-image: url(../images/icons/chauffe_eau_solaire.png);
+    background-position: center;
+    background-size: contain;
+    border-radius: inherit;
+    background-repeat: no-repeat;
+    height: 60%;
+    width: 90%;
+    margin: auto;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="poele"] div[name="img"] {
+    background-image: url(../images/icons/poele.png);
+    background-position: center;
+    background-size: contain;
+    border-radius: inherit;
+    background-repeat: no-repeat;
+    height: 60%;
+    width: 90%;
+    margin: auto;
+}
+
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service div {
+    margin: 0;
+    display: grid;
+    width: 100%;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service div p {
+    margin: auto;
+    transform: translateY(-15%);
+    background-color: white;
+    height: min-content;
+    width: 100%;
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="pompe_chaleur"] {
+  grid-row: 2;
+  grid-column: 2;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="climatiseur"] {
+  grid-row: 2;
+  grid-column: 4;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="chauffe_eau_thermo"] {
+  grid-row: 2;
+  grid-column: 6;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="photovoltaique"] {
+    grid-row: 4;
+    grid-column: 6;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="chauffe_eau_solaire"] {
+    grid-row: 4;
+    grid-column: 2;
+}
+
+#container[name="energies_renouvelables"] div[name="services_liste"] div.service[name="poele"] {
+    grid-row: 4;
+    grid-column: 4;
+}
+
+  /* service */
+
+#container[name="energies_renouvelables"] div[name="services"] {
+  display: grid;
+  grid-auto-rows: min-content;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: var(--main-bckg-color-gray);
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service div[name="desc"] {
+  height: inherit;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] p[name="first-desc"] {
+    width: 50%;
+    margin-bottom: 0;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] p[name="first-desc"] {
+    margin-left: 50%;
+    width: 50%;
+    margin-bottom: 0;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] p[name="first-desc-complement"] {
+  grid-row:3;
+  margin-top:0;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] p[name="first-desc-complement"] {
+  grid-row:3;
+  margin-top:0;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service div[name="img"] {
+    background-image: url(../images/test-min.jpeg);
+    background-position: center;
+    background-size: cover;
+    border-radius: inherit;
+    background-repeat: no-repeat;
+    height: 95%;
+    margin: auto;
+    margin-right: 0;
+    width: 95%;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[name="climatiseur"] div[name="img"] {
+    background-image: url(../images/climatiseur-min.jpeg);
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[name="combles_perdus"] div[name="img"] {
+    background-image: url(../images/air_air-min.jpeg);
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[name="chauffe_eau_thermo"] div[name="img"] {
+    background-image: url(../images/chauffe-eau-min.jpeg);
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[name="chauffe_eau_solaire"] div[name="img"] {
+    background-image: url(../images/chauffe-eau_solaire-min.jpeg);
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[name="poele"] div[name="img"] {
+    background-image: url(../images/5-min.jpeg);
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[name="photovoltaique"] div[name="img"] {
+    background-image: url(../images/photovoltaique-min.jpeg);
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] {
+    grid-column: 1;
+    grid-row: 1;
+    text-align: justify;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] p {
+    font-size: 1.2vw;
+    margin-left: 1vw;
+    margin-top: 0;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service div[name="desc"] ul {
+    font-size: 1.2vw;
+    padding: 0;
+    margin-left: 1vw;
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-row: 4;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] ul li:first-child {
+    margin-top: 1vw;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] ul li {
+    margin-left: 6vw;
+    margin-top: 0.5vw;
+    text-align: left;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service div[name="desc"] ul li[name="to_aides"] {
+  cursor: pointer;
+  border-bottom: 0.25vw solid transparent;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service div[name="desc"] ul li[name="to_aides"]:hover {
+  border-bottom: 0.25vw solid var(--main-bckg-color-lightgreen);
+  width: fit-content;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service div[name="desc"] ul p {
+    font-weight: bold;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] ul li::before {
+    content: "→";
+    color: var(--main-bckg-color-lightgreen);
+    display: inline-block;
+    width: 1em;
+    margin-right: 1vw;
+    margin-left: -1em;
+    font-size: 1.5vw;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] div[name='title'] {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr min-content;
+    margin-top: 1vw;
+    margin-left: 1vw;
+    height: 4vw;
+    margin-bottom: 4vw;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] div[name='title'] h2 {
+    width: max-content;
+    font-size: 2.7vw;
+    margin: 0;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] div[name='title'] p {
+    font-size: 10.5vw;
+    margin: auto;
+    width: min-content;
+    transform: translateY(-15%);
+    color: var(--main-bckg-color-lightgreen);
+    grid-row: 1;
+    grid-column: 2;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="desc"] div[name='title'] p[name="annonce"] {
+    font-size: 1.75vw;
+    color: var(--main-bckg-color-lightgreen);
+    grid-row: 2;
+    grid-column: 2;
+    width: max-content;
+    transform: translateY(-150%);
+    text-transform: uppercase;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="0"] div[name="img"] {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+/* #container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="img"] {
+  grid-column: 1;
+  grid-row: 1;
+} */
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] {
+    grid-column: 2;
+    grid-row: 1;
+    height: 95%;
+    margin: auto;
+    padding-right: 1vw;
+    text-align: justify;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] p {
+    font-size: 1.2vw;
+    margin-left: 2vw;
+    margin-top: 0;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] ul {
+    font-size: 1.2vw;
+    padding: 0;
+    margin-left: 1vw;
+    list-style: none;
+    grid-row: 4;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] ul li:first-child {
+    margin-top: 1vw;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] ul li {
+    margin-left: 6vw;
+    margin-top: 0.5vw;
+    text-align: left;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] ul li::before {
+    content: "→";
+    color: var(--main-bckg-color-lightgreen);
+    display: inline-block;
+    width: 1em;
+    margin-right: 1vw;
+    margin-left: -1em;
+    font-size: 1.5vw;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] div[name='title'] {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr min-content;
+    margin-top: 1vw;
+    margin-left: 1vw;
+    height: 4vw;
+    margin-bottom: 4vw;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] div[name='title'] h2 {
+    width: max-content;
+    font-size: 2.7vw;
+    margin: 0;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] div[name='title'] p {
+    font-size: 10.5vw;
+    margin: auto;
+    width: min-content;
+    transform: translateY(-15%);
+    color: var(--main-bckg-color-lightgreen);
+    grid-row: 1;
+    grid-column: 1;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="desc"] div[name='title'] p[name="annonce"] {
+    font-size: 1.75vw;
+    color: var(--main-bckg-color-lightgreen);
+    grid-row: 2;
+    grid-column: 1;
+    width: max-content;
+    transform: translateY(-150%);
+    text-transform: uppercase;
+}
+
+#container[name="energies_renouvelables"] div[name="services"] div.service[value="1"] div[name="img"] {
+  grid-column: 1;
+  grid-row: 1;
+  margin-left: 0;
+}

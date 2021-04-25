@@ -1,0 +1,268 @@
+#box[name="eligibilite"] div[name="boxContainer"] {
+    width: 40%;
+    height: auto;
+    background-color: white;
+    margin: auto;
+    display: grid;
+    grid-template-rows: min-content min-content 1fr min-content min-content;
+    filter: drop-shadow(2px 4px 10px black);
+    border-radius: 0.5vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="delete"] {
+    display: grid;
+    height: 0;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div.btn {
+    margin-left: auto;
+    background-color: red;
+    border-radius: 100%;
+    height: 2vw;
+    width: 2vw;
+    display: grid;
+    margin-top: 0.2vw;
+    margin-right: 0.2vw;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div.btn[name="annuler"] {
+    margin-left: auto;
+    background-color: white;
+    border-radius: 100%;
+    height: 3vw;
+    width: 3vw;
+    display: grid;
+    margin-top: 1.5vw;
+    margin-right: 1.5vw;
+    background-image: url(../../images/icons/cross_black.png);
+    background-position: center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    transform: rotate(45deg);
+    filter: drop-shadow(2px 4px 6px black);
+    cursor: pointer;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div.btn[name="annuler"]:hover {
+    filter: drop-shadow(2px 4px 10px black);
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div.btn p {
+    margin: auto;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="info"] {
+    display: grid;
+    text-align: center;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="info"] p {
+    font-size: 1.5vw;
+    margin: auto;
+    text-align: center;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="info"] p[name="eligibilite"] {
+    font-size: 2vw;
+    font-weight: bold;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] input {
+    width: 70%;
+    margin: auto;
+    height: 1.5vw;
+    font-size: 1.5vw;
+    margin-top: 2vw;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+/* #box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] input[name="nom"] {
+    margin-top: 1vw;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] input[name="adresse"] {
+    margin-top: 1vw;
+} */
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div {
+    display: grid;
+    grid-auto-rows: min-content;
+    height: 90%;
+}
+
+/* #box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="facultatif"] {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+} */
+
+/* #box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="facultatif"] input{
+  margin-top: 1vw;
+} */
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="obligatoire"] {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="prestations"] {
+    grid-template-columns: min-content 1fr;
+    padding-left: 1vw;
+    border: none;
+    transform: translateY(-10%);
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="prestations"] input {
+    grid-column: 1;
+    height: 1vw;
+    width: 1vw;
+    margin: auto;
+    margin-top: 1vw;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="prestations"] p {
+    grid-column: 2;
+    margin: auto;
+    margin-left: 1.5vw;
+    margin-top: 1vw;
+    margin-right: 0;
+    /* margin-bottom: 1vw; */
+    /* padding-bottom: 1vw; */
+    font-size: 1.5vw;
+    margin-bottom: 1vw;
+    margin-top: 0.5vw;
+}
+
+/* #box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="obligatoire"] div[name="choix_prestation"] {
+    grid-column: 2;
+    grid-row: 1;
+    border: 1px solid darkgrey;
+    margin: auto;
+    height: 1vw;
+    display: grid;
+    grid-template-columns: 1fr min-content;
+    grid-template-rows: 1vw min-content;
+    z-index: 1;
+    background-color: var(--main-bckg-color-gray);
+    border-radius: 0.2vw;
+    width: 70%;
+} */
+
+/* #box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="obligatoire"] div[name="choix_prestation"]:hover{
+  grid-template-rows: 1vw min-content;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="obligatoire"] div[name="choix_prestation"] p[name="dropValue"] {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="obligatoire"] div[name="choix_prestation"] div[name="logo"] {
+    grid-column: 2;
+    grid-row: 1;
+    background-image: url(../images/downArrow.png);
+    background-position: center;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    width: 1vw;
+    background-color: gray;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="obligatoire"] div[name="choix_prestation"] div[name="dropDown"] {
+    grid-column: 1/3;
+    grid-row: 2;
+    opacity: 0;
+    user-select: none;
+    background-color: darkgray;
+    position: inherit;
+    display: none;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="obligatoire"] div[name="choix_prestation"]:hover div[name="dropDown"] {
+    opacity: 1;
+    user-select: all;
+    display: block;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="obligatoire"] div[name="choix_prestation"] p{
+  margin:0;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="obligatoire"] div[name="choix_prestation"] p:hover{
+  background-color: var(--main-bckg-color-gray)
+} */
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="formulary"] div[name="obligatoire"] textarea[name="message"] {
+    width: 150%;
+    margin: auto;
+    resize: none;
+    height: 80%;
+    margin-top: 3vw;
+    font-size: 1.5vw;
+    transform: translateX(-50%);
+    border-radius: 0.5vw;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="option"] {
+    display: grid;
+    font-size: 0.75vw;
+    margin-bottom: 1vw;
+    grid-template-columns: auto 1fr;
+    margin-top: 2vw;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="option"] label {
+  width: min-content;
+  margin: auto;
+  margin-right: 0;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="option"] input {
+    height: 1vw;
+    width: 1vw;
+    margin: auto;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="option"] p {
+    margin: auto;
+    margin-left: 1vw;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="validation"] {
+    width: 100%;
+    display: grid;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="validation"] div[name="valider"] {
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    height: 90%;
+    background-color: var( --main-bckg-color-lightblue);
+    border-radius: 0.5vw;
+    color: white;
+    margin-bottom: 2vw;
+    font-size: 1.5vw;
+    font-weight: bold;
+    pointer-events: none;
+    filter: contrast(0.5);
+    display: grid;
+    width: max-content;
+    cursor: pointer;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="validation"] div[name="valider"].active {
+    filter: none;
+    pointer-events: all;
+}
+
+#box[name="eligibilite"] div[name="boxContainer"] div[name="validation"] div[name="valider"] p {
+    margin: auto;
+}

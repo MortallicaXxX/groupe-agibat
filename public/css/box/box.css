@@ -1,0 +1,12 @@
+#box {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  display: grid;
+  background-color: rgba(0,0,0,0.7);
+  overflow-y: hidden;
+  user-select: none;
+  pointer-events: all;
+  color: black;
+}

@@ -1,0 +1,104 @@
+/* headband */
+
+#headband.active {
+  height: 8vw;
+  opacity: 1;
+  transition: 0.3s;
+}
+
+#headband {
+    opacity: 0.5;
+    width: 100%;
+    height: 6vw;
+    position: fixed;
+    top: 0;
+    display: grid;
+    grid-template-columns: 20% 1fr;
+    background-color: lightcoral;
+    transition: 0.3s;
+    cursor: default;
+    user-select: none;
+    background-color: white;
+    filter: drop-shadow(2px 4px 6px black);
+    color: var(--main-bckg-color-lightblue);
+    font-weight: bold;
+}
+
+#headband:hover {
+  opacity: 1;
+}
+
+#headband div[name="logo"] {
+    background-image: url(../logo.png);
+    background-position: center;
+    background-size: contain;
+    border-radius: inherit;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+#headband.active div[name="logo"] {
+    background-image: url(../logo.png);
+    background-position: center;
+    background-size: 70%;
+    border-radius: inherit;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+#headband div[name="menu"] {
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr min-content min-content;
+    /* width: max-content; */
+}
+
+#headband div[name="menu"] div[name="mainBtn"] {
+    display: grid;
+    height: 6vw;
+    text-align: center;
+    grid-template-rows: 6vw min-content;
+    min-width: 10vw;
+}
+
+#headband.active div[name="menu"] div[name="mainBtn"] {
+    height: 8vw;
+    grid-template-rows: 8vw min-content;
+}
+
+#headband div[name="menu"] div[name="mainBtn"] div[name="subMenu"] {
+    height: 0;
+    opacity: 0;
+    pointer-events: none;
+    background-color: var(--main-bckg-color-blue);
+    transition: 0.5s;
+}
+
+#headband div[name="menu"] div[name="mainBtn"] div[name="subMenu"] p{
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 90%;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+
+#headband div[name="menu"] div[name="mainBtn"] div[name="subMenu"] p:hover{
+  border: 1px solid white;
+  /* background-color: red; */
+}
+
+#headband div[name="menu"] div[name="mainBtn"]:hover {
+
+}
+
+#headband div[name="menu"] div[name="mainBtn"]:hover div[name="subMenu"] {
+    height: auto;
+    opacity: 1;
+    pointer-events: all;
+}
+
+#headband div[name="menu"] p {
+    margin: auto;
+}

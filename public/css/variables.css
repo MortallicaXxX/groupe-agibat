@@ -1,0 +1,29 @@
+:root{
+  --menu-default-height : 6vw;
+  --menu-active-height : 8vw;
+
+  /* polices */
+
+  --default-fontsize : 1vw;
+  --title-fontsize : 1.4vw;
+  --large-fontsize : 1.7vw;
+  --xlarge-fontsize : 2vw;
+
+  /* radius */
+
+  --litle-radius : 0.25vw;
+  --default-radius : 0.5vw;
+  --large-radius : 1vw;
+  --xlarge-radius : 2vw;
+
+  --select-color : rgba(100, 149, 237, 0.2);
+
+  --main-bckg-color-default : white;
+  --main-bckg-color-lightblue : #3b4572;
+  --main-bckg-color-blue : #01172b;
+  --main-bckg-color-blue-select : #153051;
+  --main-bckg-color-green : #6ea349;
+  --main-bckg-color-lightgreen : #a1c154;
+  /* --main-bckg-color-gray : rgb(240,240,240); */
+  --main-bckg-color-gray : white;
+}
